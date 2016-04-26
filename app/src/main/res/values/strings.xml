@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ps2</string>
+    <string name="total">当前分数：%1s</string>
+</resources>
